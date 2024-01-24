@@ -96,7 +96,7 @@ module.exports = {
       },
       colors: {
         black: "#12151E",
-        "hot-pink": "#fd2d78",
+        "baby-blue": "#89e9f0",
       },
       fontFamily: {
         display: ["Londrina Solid", "sans-serif"],
